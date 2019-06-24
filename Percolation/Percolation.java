@@ -4,10 +4,9 @@
  *  Description:
  **************************************************************************** */
 
-public class Percolation {
-    public Percolation(int n){
+package Percolation;
 
-    }
+public class Percolation {
     public static void main(String[] args) {
 
     }
